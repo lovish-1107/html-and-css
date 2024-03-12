@@ -1,0 +1,44 @@
+#box{
+    background-color: blue;
+    color:white
+}
+button{
+    background-color:green;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    font-family:cursive;
+}
+h2{
+    text-align: center;
+    padding: auto;
+}
+a{
+    text-decoration: none;
+}
+h2{
+   font-size: 30px;
+   /* line-height: 50px; */
+}
+ul a{
+    text-align: center;
+}
+body{
+    background-color:yellow;
+}
+footer{
+    text-align: center;
+    text-decoration: blue;
+}
+div{
+    width: 33%;
+    margin: auto;
+    margin-bottom: 15px;
+    height: 70px;
+    box-shadow: 0 0 10px black;
+    border-radius: 60px;
+}
+
+
+

@@ -1,0 +1,32 @@
+.button{
+  display: flex;
+  justify-content: space-around;
+  background-color: aqua;
+}
+a{
+    text-decoration: none;
+    text-align: center;
+}
+body{
+    background-color: yellow;
+}
+h1{
+    text-align: center;
+    text-decoration: double;
+}
+.navigator{
+  display: flex;
+  justify-content: space-around;
+}
+.butt{
+  border: 1px solid black;
+  background-color: aqua;
+  color: black;
+  border-radius: 15px;
+  padding: 15px;
+}
+footer{
+  margin: auto;
+  border: 1px rgb(125, 102, 102) black;
+  margin: 15px;
+}
